@@ -1,3 +1,4 @@
+![logo](https://github.com/RohanNaseem0341/RohanNaseem0341/blob/main/developer%20edit%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Rohan Naseem</h1>
 <h3 align="center">As a passionate developer, I'm all about crafting code like an artist paints a masterpiece</h3>
 <img alt="coding" width="400" align="right" src="https://github.com/RohanNaseem0341/RohanNaseem0341/blob/main/bu.gif">
