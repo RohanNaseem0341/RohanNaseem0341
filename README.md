@@ -1,7 +1,7 @@
 ![logo](https://github.com/RohanNaseem0341/RohanNaseem0341/blob/main/developer%20edit%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Rohan Naseem</h1>
 <h3 align="center">As a passionate developer, I'm all about crafting code like an artist paints a masterpiece</h3>
-<img alt="coding" width="400" height=100 align="right" src="https://github.com/RohanNaseem0341/RohanNaseem0341/blob/main/bu.gif">
+<img alt="coding" width="400"  align="right" src="https://github.com/RohanNaseem0341/RohanNaseem0341/blob/main/bu.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohannaseem0341&label=Profile%20views&color=0e75b6&style=flat" alt="rohannaseem0341" /> </p>
